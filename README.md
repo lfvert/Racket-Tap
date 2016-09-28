@@ -26,3 +26,6 @@ Down key-hit middle note
 Right key-hit right note
 The player should try to hit the key when the note gets inside the open circle (the hit circle)
 Try to get a perfect score! 
+
+Fall 2014
+;By Liam Schmid, Megan Pieczynski, Jounghee Kim, Luis Verastegui
